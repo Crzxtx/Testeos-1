@@ -11,3 +11,4 @@ python3 currency_converter.py
 ```
 
 Se abrirá una ventana donde puedes introducir el monto a convertir y seleccionar las monedas de origen y destino. Las tasas de cambio son estáticas y están definidas dentro del programa.
+Prueba final de auto-merge.
