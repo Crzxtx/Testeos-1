@@ -6,7 +6,8 @@ on:
 
 jobs:
   automerge:
-    if: github.actor == 'codex-bot'
+    if: github.actor == github.repository_owner
+
     runs-on: ubuntu-latest
 
     steps:
